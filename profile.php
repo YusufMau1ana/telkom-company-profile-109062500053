@@ -19,4 +19,26 @@ require 'includes/header.php';
         </div>
     </div>
 </section>
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Program Latihan</span>
+            <h2>Skill Sepak Bola yang Dilatih</h2>
+        </div>
+        <div class="grid-3">
+            <article class="card">
+                <h3>Teknik Dasar & Kontrol Bola</h3>
+                <p>Mengasah akurasi passing, first touch, serta kontrol bola di bawah tekanan lawan secara konsisten.</p>
+            </article>
+            <article class="card">
+                <h3>Taktik & Visi Permainan</h3>
+                <p>Memahami penempatan posisi, transisi menyerang-bertahan, dan membaca ruang gerak di lapangan.</p>
+            </article>
+            <article class="card">
+                <h3>Fisik & Ketahanan</h3>
+                <p>Meningkatkan stamina, kelincahan gerak, serta kekuatan fisik untuk menjaga performa sepanjang laga.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
